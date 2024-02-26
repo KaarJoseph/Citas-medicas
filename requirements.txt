@@ -1,0 +1,9 @@
+djangorestframework==3.14.0
+drf-yasg==1.21.7
+inflection==0.5.1
+packaging==23.2
+pytz==2023.3.post1
+PyYAML==6.0.1
+setuptools==68.0.0
+uritemplate==4.1.1
+wheel==0.41.2
